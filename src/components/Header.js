@@ -5,6 +5,7 @@ function Header(){
             <nav>
                 <a href="/">Home</a>
                 <a href="/about">About</a>
+                <a href="/contact">Contact</a>
                 <a href="/dashboard">Dashboard</a>
             </nav>
         </header>
